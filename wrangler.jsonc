@@ -1,0 +1,6 @@
+{
+  "name": "sandbox-kayama-ooo",
+  "compatibility_date": "2026-11-09",
+  "main": "api/index.ts",
+  "routes": [{ "pattern": "sandbox.kayama.ooo", "custom_domain": true }],
+}
